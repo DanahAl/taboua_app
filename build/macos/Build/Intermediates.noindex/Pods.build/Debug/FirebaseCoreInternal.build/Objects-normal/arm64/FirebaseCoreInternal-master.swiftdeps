@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "929ba0c09eee2dc60f1078027f753d7d6aa18e4a9de26bc279ecb8e8b875ebea"
+build_start_time: [1698988136, 555743000]
+build_end_time: [1698988136, 589517000]
+inputs:
+  ? "/Users/danahiphone/Desktop/taboua-app/taboua_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : !private [1698988118, 106225277]
+  ? "/Users/danahiphone/Desktop/taboua-app/taboua_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : !private [1698988118, 107110482]
+  ? "/Users/danahiphone/Desktop/taboua-app/taboua_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : !private [1698988118, 107674438]
+  ? "/Users/danahiphone/Desktop/taboua-app/taboua_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : !private [1698988118, 108041603]
+  ? "/Users/danahiphone/Desktop/taboua-app/taboua_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : !private [1698988118, 108410310]
+  ? "/Users/danahiphone/Desktop/taboua-app/taboua_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : !private [1698988118, 108823725]
+  ? "/Users/danahiphone/Desktop/taboua-app/taboua_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : !private [1698988118, 106461360]
+  ? "/Users/danahiphone/Desktop/taboua-app/taboua_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : !private [1698988118, 105993987]
+  ? "/Users/danahiphone/Desktop/taboua-app/taboua_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : !private [1698988118, 108975349]
+  ? "/Users/danahiphone/Desktop/taboua-app/taboua_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : !private [1698988118, 108572976]
+  ? "/Users/danahiphone/Desktop/taboua-app/taboua_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : !private [1698988118, 106790650]
+  ? "/Users/danahiphone/Desktop/taboua-app/taboua_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : !private [1698988118, 107368981]
