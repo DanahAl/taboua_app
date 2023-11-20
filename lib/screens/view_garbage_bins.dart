@@ -141,9 +141,13 @@ print('Location permission not granted');
 // to resize icon marker
 
 Future<Uint8List>getBytesFromAssets (String path , int width) async{
+// Load the byte data of the image from the assets
 ByteData data = await rootBundle.load(path);
+// Instantiate an image codec from the byte data with a target width
 ui.Codec codec = await ui.instantiateImageCodec(data.buffer.asUint8List(),targetHeight:width );
+// Get the frame information from the codec
 ui.FrameInfo fi = await codec.getNextFrame() ;
+// Convert the image to byte data with a specified format png
 return (await fi.image.toByteData(format: ui.ImageByteFormat.png))!.buffer.asUint8List();
 
 }
